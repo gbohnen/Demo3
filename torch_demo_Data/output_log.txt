@@ -1,0 +1,50 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     896 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  1.342 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: \\enterprise\users\Employee\st-it43\Desktop\Demo 3\torch_demo_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 18ec -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 26.973450 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 0.925095 ms (FindLiveObjects: 0.081781 ms CreateObjectMapping: 0.030461 ms MarkObjects: 0.791992 ms  DeleteObjects: 0.019534 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.489470 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 1.276393 ms (FindLiveObjects: 0.236074 ms CreateObjectMapping: 0.053307 ms MarkObjects: 0.914831 ms  DeleteObjects: 0.067544 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.633092 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 0.614854 ms (FindLiveObjects: 0.077808 ms CreateObjectMapping: 0.028474 ms MarkObjects: 0.490691 ms  DeleteObjects: 0.017217 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.071366 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 620.
+Total: 1.129384 ms (FindLiveObjects: 0.280442 ms CreateObjectMapping: 0.058935 ms MarkObjects: 0.759876 ms  DeleteObjects: 0.027150 ms)
+
